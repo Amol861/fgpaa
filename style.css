@@ -1,0 +1,183 @@
+/*heading*/
+/*.heading
+{
+  color: #516BEB;
+  font-family: 'Quicksand', sans-serif;
+  margin-left: 600px;
+  margin-top: 100px;
+}
+/*logo*/
+
+.logo
+{
+  height: 200px;
+  margin-left: 650px;
+  margin-top: 06px;
+}
+/*form*/
+.Forgot{
+  margin-left: 200px;
+}
+.abc
+{
+  margin-left: 600px;
+  margin-right: 600px;
+  margin-top: 50px;
+}
+.def
+{
+  margin-left: 600px;
+  margin-right: 600px;
+  margin-top: 20px;
+}
+.pass
+{
+  margin-left: 600px;
+  margin-top: 50px;
+  color: #0062cc;
+  font-family: 'Quicksand', sans-serif;
+}
+.xyz
+{
+  margin-left: 100px;
+  margin-right: 800px;
+  width: 1900px;
+}
+.mno
+{
+  width:200px;
+}
+.bar
+{
+  height: 900px;
+}
+.bts
+{
+  width: 1800px;
+  margin-left: 0px;
+  color: #0062cc;
+  margin-top: 15px;
+}
+.vtpa
+{
+  margin-right: 270px;
+  font-family: 'Quicksand', sans-serif;
+  margin-top: 15px;
+  font-weight: bold;
+}
+.bts:cli
+{
+  color: white;
+}
+.back
+{
+  color: #0F52BA;
+    font-family: 'Quicksand', sans-serif;
+    margin-left: 600px;
+    margin-right: 600px;
+    margin-top: 30px;
+    font-weight: bold;
+
+}
+.ama
+{
+  margin-left: 600px;
+  margin-right: 600px;
+  margin-top: 22px;
+}
+.fpa
+{
+  margin-left: 600px;
+  margin-top: 30px;
+}
+.emad
+{
+  font-family: 'Quicksand', sans-serif;
+  color: #0062cc;
+  font-weight: bold;
+}
+@media (min-width: 820px) and (max-width: 1024px)
+{
+  .bts
+  {
+
+  }
+  .logo
+  {
+    height: 100px;
+    margin-left: 798px;
+    margin-top: 30px;
+  }
+  .vtpa
+  {
+    margin-right: 270px;
+    font-family: 'Quicksand', sans-serif;
+    margin-top: 15px;
+    margin-left: 205px;
+
+  }
+  .abc
+  {
+    margin-left: 752px;
+    margin-right: 600px;
+    margin-top: 50px;
+    height: 400px;
+    width: 900px;
+  }
+  .ama
+  {
+    margin-left: 742px;
+    margin-right: 400px;
+    margin-top: 22px;
+    font-size: 850px;
+    font-weight: 600;
+  }
+  .back
+  {
+    color:#516BEB;
+      font-family: 'Quicksand', sans-serif;
+      margin-left: 752px;
+      margin-right: 100px;
+      margin-top: 30px;
+  }
+  .fci
+  {
+    margin-top: 80px;
+    width: 10px;
+    height: 100px;
+  }
+  .ema
+  {
+    margin-left:0px;
+    margin-right: 20px;
+    width: 400px;
+
+  }
+  .fpa
+  {
+    margin-left: 725px;
+    margin-top: 190px;
+    width: 200px;
+
+  }
+  .emad
+  {
+
+
+    margin-right: 0px;
+
+
+  }
+  .inpu
+  {
+    margin-top: 600px;
+  }
+}
+@media (min-width:300px) and (max-width:815px)
+{
+
+  .logo
+  {
+  margin-right: 100px;
+  }
+}
